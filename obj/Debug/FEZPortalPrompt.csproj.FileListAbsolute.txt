@@ -1,0 +1,17 @@
+D:\Repos\FEZPortalPrompt\bin\Debug\FEZPortalPrompt.exe
+D:\Repos\FEZPortalPrompt\bin\Debug\FEZPortalPrompt.pdb
+D:\Repos\FEZPortalPrompt\bin\Debug\GHIElectronics.TinyCLR.Devices.Display.dll
+D:\Repos\FEZPortalPrompt\bin\Debug\GHIElectronics.TinyCLR.Devices.Gpio.dll
+D:\Repos\FEZPortalPrompt\bin\Debug\GHIElectronics.TinyCLR.Devices.Storage.dll
+D:\Repos\FEZPortalPrompt\bin\Debug\GHIElectronics.TinyCLR.Drawing.dll
+D:\Repos\FEZPortalPrompt\bin\Debug\GHIElectronics.TinyCLR.IO.dll
+D:\Repos\FEZPortalPrompt\bin\Debug\GHIElectronics.TinyCLR.Native.dll
+D:\Repos\FEZPortalPrompt\bin\Debug\GHIElectronics.TinyCLR.Pins.dll
+D:\Repos\FEZPortalPrompt\bin\Debug\mscorlib.dll
+D:\Repos\FEZPortalPrompt\obj\Debug\FEZPortalPrompt.csproj.AssemblyReference.cache
+D:\Repos\FEZPortalPrompt\obj\Debug\FEZPortalPrompt.Resources.resources
+D:\Repos\FEZPortalPrompt\obj\Debug\FEZPortalPrompt.csproj.GenerateResource.cache
+D:\Repos\FEZPortalPrompt\obj\Debug\FEZPortalPrompt.csproj.CoreCompileInputs.cache
+D:\Repos\FEZPortalPrompt\obj\Debug\FEZPortalPrompt.csproj.CopyComplete
+D:\Repos\FEZPortalPrompt\obj\Debug\FEZPortalPrompt.exe
+D:\Repos\FEZPortalPrompt\obj\Debug\FEZPortalPrompt.pdb
